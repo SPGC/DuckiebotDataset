@@ -20,5 +20,5 @@ You can help me in improving this dataset by:
 3. Adding images with red stop lines 
 
 ## Creating dataset
-Dataset was created with using EM algorithm for generating pixel maps after that each map was revied by human
+Dataset was created with using EM algorithm for generating pixel maps after that each map was revised by human
 
