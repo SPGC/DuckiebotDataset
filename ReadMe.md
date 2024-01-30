@@ -16,9 +16,9 @@ Dataset is still in developing
 ## Contribution
 You can help me in improving this dataset by:
 1. Making better pixel maps (remove noise)
-2. Add more images with pixel maps
-3. Add images with red stop lines 
+2. Adding more images with pixel maps
+3. Adding images with red stop lines 
 
 ## Creating dataset
-Dataset was created with using EM algorithm for generating pixel maps after that each map was revied by human
+Dataset was created with using EM algorithm for generating pixel maps after that each map was revised by human
 
